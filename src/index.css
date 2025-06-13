@@ -3,6 +3,8 @@
 /* npm install tailwindcss @tailwindcss/vite */
 /* npm i react-responsive */
 /* npm install react-countup */
+/* npx gltfjsx computer-optimized.glb -T */
+/* npm i @emailjs/browser */
 
 @import url("https://fonts.googleapis.com/css2?family=Mona+Sans:ital,wght@0,200..900;1,200..900&display=swap");
 @import "tailwindcss";
